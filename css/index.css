@@ -5528,7 +5528,7 @@ footer {
     color: #ddab43;
   }
 
-  .home-section  h1 {
+  .home-section h1 {
     font-size: 36px;
     font-weight: 900;
     margin: 0 0 12px 0;
@@ -6205,7 +6205,7 @@ footer {
     margin: 0 0 12px 3px;
   }
 
-  .home-section  h1 {
+  .home-section h1 {
     font-family: "roboto", sans-serif;
     color: #e6e7e8;
     font-size: 36px;
@@ -6610,7 +6610,8 @@ footer {
   border-right: 0.15em solid white;
   white-space: nowrap;
   width: 0;
-  animation: typing 3.5s 1.5s steps(11, end) forwards, blinkers 0.5s infinite, stopblinker 0s 6s forwards;
+  animation: typing 3.5s 1.5s steps(11, end) forwards, blinkers 0.5s infinite,
+    stopblinker 0s 6s forwards;
 }
 
 @keyframes typing {
