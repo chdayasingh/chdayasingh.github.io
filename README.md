@@ -1,2 +1,1 @@
-# dayasingh.github.io
-Daya Singh's porfolio 2022
+Daya Chaudhary's porfolio 2022
